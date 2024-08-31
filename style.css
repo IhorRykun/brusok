@@ -1,0 +1,27 @@
+.body {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  background-color: #112c2d;
+}
+
+.header {
+  background-color: #112c2d;
+  border-radius: 8px;
+}
+
+.svg_logo {
+  fill: white;
+}
+
+.svg_logo:hover {
+  fill: #ffbb00;
+}
+
+.svg_new {
+  fill: white;
+}
+
+.svg_new:hover {
+  outline: 2px solid orange;
+}
